@@ -1,7 +1,7 @@
 # =====================================
 # generator=datazen
 # version=3.2.4
-# hash=fc6d810bfa3bd3454494885aa315bf49
+# hash=912a64a72d44f6d9444d2c7ad7f4b007
 # =====================================
 
 """
@@ -10,7 +10,7 @@ Useful defaults and other package metadata.
 
 DESCRIPTION = "World of Warcraft polyfills and standardization."
 PKG_NAME = "gnomish-army-knife"
-VERSION = "1.5.7"
+VERSION = "1.5.8"
 
 # gnomish-army-knife-specific content.
 PKG_SLUG = PKG_NAME.replace("-", "_")

@@ -2,13 +2,13 @@
     =====================================
     generator=datazen
     version=3.2.4
-    hash=c108f62d0a08c7b182b9927dd2b6ed4e
+    hash=c58083f55edbdd1264dbbd5e5ed6d30c
     =====================================
 -->
 
 [![Gnomish Army Knife Icon](https://wow.zamimg.com/images/wow/icons/large/inv_misc_enggizmos_swissarmy.jpg)](https://www.wowhead.com/item=40772/gnomish-army-knife)
 
-# gnomish-army-knife ([1.5.7](https://pypi.org/project/gnomish-army-knife/))
+# gnomish-army-knife ([1.5.8](https://pypi.org/project/gnomish-army-knife/))
 
 [![python](https://img.shields.io/pypi/pyversions/gnomish-army-knife.svg)](https://pypi.org/project/gnomish-army-knife/)
 ![Build Status](https://github.com/libre-embedded/gnomish-army-knife/workflows/Python%20Package/badge.svg)
