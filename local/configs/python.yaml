@@ -1,8 +1,4 @@
 ---
-author_info:
-  name: Vaughn Kottler
-  username: vkottler
-
 systems:
   - macos-latest
   - windows-latest
