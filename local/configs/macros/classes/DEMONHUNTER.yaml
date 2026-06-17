@@ -26,3 +26,8 @@ by_name:
       #showtooltip Eye Beam
       /use 14
       /cast Eye Beam
+
+  vr:
+    body: |-
+      #showtooltip Vengeful Retreat
+      /castsequence reset=1 Vengeful Retreat,_

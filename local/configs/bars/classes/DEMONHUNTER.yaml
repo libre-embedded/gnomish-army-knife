@@ -21,7 +21,7 @@ by_key:
   X_2: s "Blur"
 
   L2_L1_P1: s "Glide"
-  L2_P1: s "Vengeful Retreat"
+  L2_P1: m vr
   L1_P1: s "Fel Rush"
 
   L1_P3: s "Torment"
