@@ -20,7 +20,7 @@ by_key:
   # X_2: 's "Power Word: Shield"'
   L2_X: s "Desperate Prayer"
   # L2_P2_X: s "Vampiric Embrace"
-  # L1_P2_X: m hds
+  L1_P2_X: s "Recuperate"
 
   P2_T: m rac1
   # L1_P2_T: s "Void Shift"

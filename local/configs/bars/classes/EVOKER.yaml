@@ -3,6 +3,7 @@ by_key:
   L2_L1_R1: s "Quell"
   L2_R1: s 357208  # Fire Breath
   L2_P2_R1: s "Sleep Walk"
+  L1_P2_R1: s "Tip the Scales"
 
   L2_L1_R2: s "Landslide"
   L2_P2_R2: s "Deep Breath"
@@ -14,8 +15,7 @@ by_key:
   L1_X_1: m scf
   L1_X_2: s "Cauterizing Flame"
   P2_X: s "Obsidian Scales"
-
-  L1_P2_R1: s "Tip the Scales"
+  L1_P2_X: s "Recuperate"
 
   L2_T: m rac1
   L1_T_1: s "Tail Swipe"
