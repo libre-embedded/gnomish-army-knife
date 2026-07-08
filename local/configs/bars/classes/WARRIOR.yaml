@@ -38,7 +38,7 @@ by_key:
 
   C_1: s "Rend"
   C_2: s "Rend"
-  # P2_C: s "Duel"
+  P2_C: m scsp
   L1_P2_C: s "Taunt"
 
   L1_P3: s "Heroic Throw"

@@ -40,3 +40,8 @@ by_name:
     body: |-
       #showtooltip
       /cast [known:Berserker Roar] Berserker Roar; [known:Berserker Shout] Berserker Shout; Berserker Rage
+
+  scsp:
+    body: |-
+      #showtooltip
+      /cast [@player] Champion's Spear
