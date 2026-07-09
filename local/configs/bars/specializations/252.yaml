@@ -20,6 +20,8 @@ by_key:
   S_1: s "Epidemic"
   S_2: s "Epidemic"
 
+  L2_L: m petd
+
   L1_T_1: "C_SpellBook.PickupSpellBookItem(8, 1)"  # Huddle
   L1_T_2: "C_SpellBook.PickupSpellBookItem(8, 1)"  # Huddle
 
