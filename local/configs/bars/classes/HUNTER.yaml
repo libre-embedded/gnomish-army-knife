@@ -32,6 +32,7 @@ by_key:
   T_1: m stt
   T_2: m ttsb
   P2_T: s "Camouflage"
+  L1_P2_T: C_SpellBook.PickupSpellBookItem(8, 1)  # Growl
 
   L2_L1_C: s "Misdirection"
   # L1_C_1: m shet

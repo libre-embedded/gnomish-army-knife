@@ -7,7 +7,7 @@ by_key:
 
   L2_L1_R2: s "Landslide"
   L2_P2_R2: s "Deep Breath"
-  L1_P2_R2: s "Oppressing Roar"
+  L1_P2_R2: s 372048  # "Oppressing Roar"
 
   L2_P2_S: s "Fury of the Aspects"
 
