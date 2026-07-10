@@ -2,7 +2,7 @@
 # Demonology Warlock
 # set these with felguard out
 by_key:
-  L2_R1: s "Call Dreadstalkers"
+  L2_R1: m fril
 
   L1_R1_1: s "Demonbolt"
   L1_R1_2: s "Demonbolt"
@@ -12,21 +12,21 @@ by_key:
 
   P2_R1: m ips
 
-  L1_R2_1: s 264119  # Summon Vilefiend
-  L1_R2_2: s 264119
+  L1_R2_1: s "Call Dreadstalkers"
+  L1_R2_2: s "Call Dreadstalkers"
 
   L2_S: m dtr
 
   # S_1: s "Implosion"
   # S_2: s "Implosion"
 
-  P2_S: s "Corruption"
+  P2_S: s "Summon Doomguard"
 
   R2_1: s "Hand of Gul'dan"
   R2_2: s "Hand of Gul'dan"
 
-  L2_X: m fril
-  P2_X: s "Summon Doomguard"
+  # L2_X: m fril
+  # P2_X: s "Summon Doomguard"
 
   C_1: m scfl
   C_2: s "Call Fel Lord"
