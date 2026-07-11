@@ -80,3 +80,8 @@ by_name:
     body: |-
       #showtooltip
       /cast [@player] Time Stop
+
+  spc:
+    body: |-
+      #showtooltip
+      /cast [@player] Prescience

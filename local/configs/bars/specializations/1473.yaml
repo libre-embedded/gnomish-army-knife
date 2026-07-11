@@ -22,9 +22,12 @@ by_key:
   X_2: s "Verdant Embrace"
 
   L2_S: s "Time Skip"
-  P2_S: s "Prescience"
+  # P2_S: s "Prescience"
   S_1: m sx
   S_2: s "Expunge"
+
+  C_1: m spc
+  C_2: s "Prescience"
 
   L1_P2_T: s "Black Attunement"
   L2_P2_C: s "Timelessness"

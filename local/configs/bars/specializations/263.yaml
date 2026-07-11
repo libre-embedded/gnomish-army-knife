@@ -20,6 +20,7 @@ by_key:
   S_2: s "Crash Lightning"
   # L1_P2_S: s "Surging Totem"
 
+  L2_X: s "Sundering"
   # L1_X_1: s "Lava Lash"
   # L1_X_2: s "Lava Lash"
 
@@ -31,7 +32,7 @@ by_key:
 
   C_1: m scs
   C_2: s "Cleanse Spirit"
-  L2_P2_C: s "Sundering"
+  # L2_P2_C: s "Sundering"
 
   # L2_L: s "Ice Strike"
   L1_P2_T: s "Windfury Weapon"
