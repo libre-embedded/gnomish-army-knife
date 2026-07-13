@@ -5,7 +5,7 @@ by_key:
   L2_P2_R1: s "Sleep Walk"
   L1_P2_R1: s "Tip the Scales"
 
-  L2_L1_R2: s "Landslide"
+  L2_L1_R2: m cls  # "Landslide"
   L2_P2_R2: s "Deep Breath"
   L1_P2_R2: s 372048  # "Oppressing Roar"
 

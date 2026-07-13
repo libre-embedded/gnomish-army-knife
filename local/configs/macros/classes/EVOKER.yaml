@@ -85,3 +85,8 @@ by_name:
     body: |-
       #showtooltip
       /cast [@player] Prescience
+
+  cls:
+    body: |-
+      #showtooltip
+      /cast [@cursor] Landslide
