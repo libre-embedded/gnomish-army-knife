@@ -5,7 +5,7 @@ by_key:
   L1_R1_1: s "Sunfire"
   L1_R1_2: s "Sunfire"
   L1_R1_B: s "Swipe"
-  L1_R1_C: s "Swipe"
+  L1_R1_C: s "Rake"
   L1_R1_M: s "Sunfire"
   R1_1: s "Moonfire"
   R1_2: s "Moonfire"
@@ -61,4 +61,5 @@ by_key:
   L1_T_M: m src
 
   L1_C_B: s "Thrash"
+  L1_C_C: s "Swipe"
   L1_C_M: s "Flap"
