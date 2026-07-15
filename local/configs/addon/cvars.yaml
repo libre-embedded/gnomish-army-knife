@@ -51,7 +51,7 @@ raidFramesDisplayPowerBars: 1
 # /console cvar_default
 SoftTargetIconEnemy: 0
 
-nameplateSelfAlpha: 0.75
+# nameplateSelfAlpha: 0.75
 
 # Overwritten by role-based logic.
 # nameplateShowFriends: 1
@@ -100,7 +100,7 @@ Sound_EnablePingSounds: 0
 # BetterBlizzPlates does all of these
 # Gets overwritten by "use large nameplates" ?
 # nameplateSelfScale: 1.0
-nameplateLargerScale: 1.2
+# nameplateLargerScale: 1.2
 # NamePlateHorizontalScale: 0.5
 # NamePlateVerticalScale: 1
 # nameplateSelectedScale: 1.2
@@ -145,7 +145,7 @@ externalDefensivesEnabled: 1
 lootUnderMouse: 0
 showTargetOfTarget: 1
 spellDiminishPVPOnlyTriggerableByMe: 1
-secretPvPMatchRestrictionsForced: 1
+# secretPvPMatchRestrictionsForced: 1
 nameplateSize: 5
 nameplateStyle: 4
 nameplateAuraScale: 0.7
