@@ -1,15 +1,15 @@
 ---
 # Unholy Death Knight
 by_key:
-  L1_R1_1: s "Festering Strike"
-  L1_R1_2: s "Festering Strike"
+  L1_R1_1: s 85948  # "Festering Strike"
+  L1_R1_2: s 85948  # "Festering Strike"
   R1_1: s "Outbreak"
   R1_2: s "Outbreak"
-  P2_R1: s "Scourge Strike"
-  L1_P2_R1: s "Dark Transformation"
+  P2_R1: s 55090  # "Scourge Strike"
+  L1_P2_R1: s 1233448  # "Dark Transformation"
 
-  R2_1: s "Death Coil"
-  R2_2: s "Death Coil"
+  R2_1: s 47541  # "Death Coil"
+  R2_2: s 47541  # "Death Coil"
   L1_P2_R2: s "Army of the Dead"
 
   P2_S: s "Soul Reaper"
@@ -17,8 +17,8 @@ by_key:
   L2_S: s "Zombify"
   L1_S_1: s "Putrefy"
   L1_S_2: s "Putrefy"
-  S_1: s "Epidemic"
-  S_2: s "Epidemic"
+  S_1: s 207317  # "Epidemic"
+  S_2: s 207317  # "Epidemic"
 
   L2_L: m petd
 
