@@ -58,6 +58,7 @@ by_name:
     body: |-
       #showtooltip Combustion
       /cast Blood Fury
+      /use 14
       /cast Combustion
 
   smet:
