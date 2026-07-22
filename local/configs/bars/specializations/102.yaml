@@ -31,8 +31,12 @@ by_key:
   L2_S: s 194223  # "Celestial Alignment"
   L1_S_C: s "Rip"
   L1_S_M: s 1233346  # "Lunar Eclipse"
+  L1_S_1: s 1233346  # "Lunar Eclipse"
+  L1_S_2: s 1233346  # "Lunar Eclipse"
   S_C: s "Maim"
   S_M: s "Wild Mushroom"
+  S_1: s "Wild Mushroom"
+  S_2: s "Wild Mushroom"
   P2_S: s "Starfall"
 
   L2_L1_S: s "Faerie Swarm"
@@ -63,3 +67,5 @@ by_key:
   L1_C_B: s "Thrash"
   L1_C_C: s "Swipe"
   L1_C_M: s "Flap"
+  L1_C_1: m flap
+  L1_C_2: m flap
