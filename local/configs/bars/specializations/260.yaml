@@ -39,4 +39,6 @@ by_key:
   L2_C: m ksbf
   P2_C: s "Preparation"
 
-  P2_X: s "Blade Rush"
+  P2_X: m t14
+
+  L2_L1_P1: s "Blade Rush"
