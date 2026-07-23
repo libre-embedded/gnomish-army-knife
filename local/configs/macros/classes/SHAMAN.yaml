@@ -103,5 +103,6 @@ by_name:
 
   lust:
     body: |-
-      #showtooltip
+      #showtooltip Bloodlust
+      /use 14
       /cast Bloodlust

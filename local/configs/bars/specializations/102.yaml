@@ -26,7 +26,7 @@ by_key:
   R2_C: s "Wrath"
   R2_M: s "Wrath"
   P2_R2: m dfnwe
-  L1_P2_R2: s "Convoke the Spirits"
+  L1_P2_R2: m bvoke
 
   L2_S: s 194223  # "Celestial Alignment"
   L1_S_C: s "Rip"

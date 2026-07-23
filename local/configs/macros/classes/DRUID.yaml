@@ -74,7 +74,7 @@ by_name:
 
   srg:
     body: |-
-      #showtoolip
+      #showtooltip
       /cast [@player] Regrowth
 
   sib:
@@ -122,6 +122,7 @@ by_name:
     body: |-
       #showtooltip Convoke the Spirits
       /cast Berserking
+      /use 14
       /cast Convoke the Spirits
 
   ffr:
@@ -151,4 +152,4 @@ by_name:
   dfnwe:
     body: |-
       #showtooltip
-      /cast [known:Force of Nature] Force of Nature; Warrior of Elune
+      /cast [@cursor] Force of Nature
