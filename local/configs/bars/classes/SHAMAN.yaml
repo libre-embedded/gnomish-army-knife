@@ -5,14 +5,14 @@ by_key:
   L2_P2_R1: s "Hex"
 
   L2_L1_R2: s "Grounding Totem"
-  L2_P2_R2: s "Lightning Lasso"
   P2_R2: s "Frost Shock"
+  L2_P2_R2: m lust
   L1_P2_R2: s "Nature's Swiftness"
 
   L1_S_1: m sct
   L1_S_2: s "Capacitor Totem"
   # L2_S: s "Ascendance"
-  L2_P2_S: m lust
+  L2_P2_S: s "Lightning Lasso"
 
   # L2_L1_X: s "Unleash Shield"
   L2_X: s "Static Field Totem"
