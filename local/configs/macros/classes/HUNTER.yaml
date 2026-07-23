@@ -91,6 +91,7 @@ by_name:
     body: |-
       #showtooltip Takedown
       /cast Blood Fury
+      /use 14
       /cast Takedown
 
   brr:
