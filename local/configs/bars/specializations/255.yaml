@@ -33,3 +33,11 @@ by_key:
   C_2: s "Mending Bandage"
 
   # L1_P2_C: s "Sticky Tar Bomb"
+
+  # ret hunter tenacity spec
+  L1_P2_T: C_SpellBook.PickupSpellBookItem(10, 1)  # Growl
+  L2_C: C_SpellBook.PickupSpellBookItem(2, 1)  # Attack
+  P2_C: C_SpellBook.PickupSpellBookItem(8, 1)  # Follow
+  P2_P3: C_SpellBook.PickupSpellBookItem(6, 1)  # Defensive
+  L2_P3: C_SpellBook.PickupSpellBookItem(12, 1)  # Passive
+  L1_P3: C_SpellBook.PickupSpellBookItem(1, 1)  # Assist
