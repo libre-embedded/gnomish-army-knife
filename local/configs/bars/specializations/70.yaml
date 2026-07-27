@@ -24,7 +24,7 @@ by_key:
   L2_S: s "Avenging Wrath"
   S_1: m swog  # word of glory
   S_2: s 85673
-  # P2_S: s "Divine Hammer"
+  P2_S: m swog
 
   X_1: m sfol  # flash of light
   X_2: s 19750
