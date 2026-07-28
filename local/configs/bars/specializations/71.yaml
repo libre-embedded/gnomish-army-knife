@@ -16,13 +16,13 @@ by_key:
   P2_S: m bsr
 
   L2_T: s "Die By The Sword"
-  L2_C: s "Duel"
+  L2_L1_C: s "Duel"
 
   L1_X_1: s "Ignore Pain"
   L1_X_2: s "Ignore Pain"
-  L1_C_1: s "Sweeping Strikes"
-  L1_C_2: s "Sweeping Strikes"
 
   L2_L1_P1: m dsa
 
   P2_U: s "Battle Stance"
+
+  L1_P3: s "Sweeping Strikes"

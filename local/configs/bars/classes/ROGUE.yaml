@@ -48,16 +48,16 @@ by_key:
 
   # L2_C: s "Cold Blood"
 
-  L1_C_1: s "Tricks of the Trade"
-  L1_C_2: s "Tricks of the Trade"
-  L1_C_C: s "Tricks of the Trade"
+  L1_C_1: s "Dismantle"
+  L1_C_2: s "Dismantle"
+  L1_C_C: s "Dismantle"
   C_1: s "Slice and Dice"
   C_2: s "Slice and Dice"
   C_C: s "Slice and Dice"
 
   P2_P3: s "Shroud of Concealment"
 
-  L1_P3: s "Dismantle"
+  L1_P3: s "Tricks of the Trade"
 
   L2_P1: s "Feint"
   L1_P1: s "Sprint"

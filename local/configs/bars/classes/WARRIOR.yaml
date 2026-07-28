@@ -22,7 +22,7 @@ by_key:
   L2_X: s "Rallying Cry"
   X_1: s "Spell Reflection"
   X_2: s "Spell Reflection"
-  P2_X: s "Disarm"
+  P2_X: m t14
   L1_P2_X: s "Shield Block"
 
   # L2_T: s "Disarm"
@@ -36,12 +36,13 @@ by_key:
   # P2_T: s "Avatar"
   L1_P2_T: s "Shield Slam"
 
+  L2_C: s "Heroic Throw"
+  L1_C_1: s "Disarm"
+  L1_C_2: s "Disarm"
   C_1: s "Rend"
   C_2: s "Rend"
   P2_C: m scsp
   L1_P2_C: s "Taunt"
-
-  L1_P3: s "Heroic Throw"
 
   L2_P1: m ivip
   L1_P1: s "Charge"

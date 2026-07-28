@@ -1,22 +1,23 @@
 ---
 # Windwalker Monk
 by_key:
-  L2_R1: m swwdp
-  P2_R1: s "Flying Serpent Kick"
+  L2_R1: m sv
   L1_R1_1: m fofr
   L1_R1_2: m fofr
   R1_1: s "Tiger Palm"
   R1_2: s "Tiger Palm"
+  P2_R1: s "Flying Serpent Kick"
   L1_P2_R1: s "Zenith"
 
-  L2_L1_R2: s "Grapple Weapon"
-  L2_R2: s "Spinning Crane Kick"
+  L2_R2: m swwdp
   L1_R2_1: s "Blackout Kick"
   L1_R2_2: s "Blackout Kick"
   R2_1: s "Rising Sun Kick"
   R2_2: s "Rising Sun Kick"
 
-  L2_S: s "Invoke Xuen, the White Tiger"
+  L2_S: s 123904  # "Invoke Xuen, the White Tiger"
+  L1_S_1: s "Spinning Crane Kick"
+  L1_S_2: s "Spinning Crane Kick"
   S_1: m sd
   S_2: s "Detox"
 
@@ -28,3 +29,13 @@ by_key:
   T_2: s "Vivify"
   L1_T_1: m ssm
   L1_T_2: s "Soothing Mist"
+
+  L1_C_1: s "Grapple Weapon"
+  L1_C_2: s "Grapple Weapon"
+
+  # xuen (no 'passive' stance button)
+  L2_C: C_SpellBook.PickupSpellBookItem(2, 1)  # Attack
+  P2_C: C_SpellBook.PickupSpellBookItem(4, 1)  # Follow
+  P2_P3: C_SpellBook.PickupSpellBookItem(3, 1)  # Defensive
+  L2_P3: C_SpellBook.PickupSpellBookItem(6, 1)  # Passive
+  L1_P3: C_SpellBook.PickupSpellBookItem(1, 1)  # Assist

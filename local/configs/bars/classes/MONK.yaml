@@ -3,12 +3,14 @@ by_key:
   L2_L1_R1: s "Spear Hand Strike"
   L2_P2_R1: s "Paralysis"
 
+  L2_L1_R2: m rop
   P2_R2: s "Disable"
   L2_P2_R2: 's "Transcendence: Transfer"'
   L1_P2_R2: s "Crackling Jade Lightning"
 
-  L1_S_1: m srop
-  L1_S_2: m rop
+  # L1_S_1: m srop
+  # L1_S_2: m rop
+  P2_S: m srop
 
   L2_X: s "Fortifying Brew"
 
@@ -19,8 +21,9 @@ by_key:
   L1_P2_X: s "Provoke"
 
   L1_P2_C: s "Zen Flight"
+  # P2_C: m srop
 
-  L2_T: s "Celestial Conduit"
+  # L2_T: s "Celestial Conduit"
   L1_P2_T: s "Zen Pilgrimage"
 
   L2_L1_P1: s "Touch of Death"
