@@ -1,0 +1,15 @@
+---
+includes:
+  - default.yaml
+  - package://gnomish_army_knife/server.yaml
+
+ports:
+  - {name: matchdb_port, type: tcp}
+
+clients:
+  - factory: tcp_combat_log_event
+    name: matchdb_client
+    kwargs: {host: 192.168.1.229, port: "$matchdb_port"}
+
+config:
+  gak_cli_args: [--config, tasks/config.yaml]
