@@ -4,6 +4,7 @@ A module implementing a combat-log state data structure.
 
 # built-in
 from collections import defaultdict
+from contextlib import suppress
 from datetime import datetime
 from pathlib import Path
 from threading import Event
@@ -58,6 +59,9 @@ class CombatLogState(GakDictCodec, _BasicDictCodec, LoggerMixin):
         elif event.name not in self.missing_handlers[key]:
             self.missing_handlers[key].add(event.name)
             file_data["missing_handlers"].append(event.name)
+            # self.logger.warning(
+            #     "'%s' event not handled: %s", event.name, event.data
+            # )
 
         # Service queues.
         self.queue.handle(event)
@@ -105,7 +109,10 @@ class CombatLogState(GakDictCodec, _BasicDictCodec, LoggerMixin):
 
             reached_eof = False
             while not reached_eof and (stop is None or not stop.is_set()):
-                line = log.readline()
+                line = ""
+                with suppress(KeyboardInterrupt):
+                    line = log.readline()
+
                 if line.rstrip():
                     self.process_line(key, line, date)
                 else:
