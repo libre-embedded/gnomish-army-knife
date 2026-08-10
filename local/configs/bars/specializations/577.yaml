@@ -9,10 +9,11 @@ by_key:
   R1_1: s "Felblade"
   R1_2: s "Felblade"
 
-  L2_R2: s "Essence Break"
+  L2_R2: s "Illidan's Grasp"
 
   S_1: s "Blade Dance"
   S_2: s "Blade Dance"
+  P2_S: s "Essence Break"
 
   R2_1: s "Chaos Strike"
   R2_2: s "Chaos Strike"
