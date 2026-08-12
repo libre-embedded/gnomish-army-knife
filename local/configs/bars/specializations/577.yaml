@@ -13,14 +13,14 @@ by_key:
 
   S_1: s "Blade Dance"
   S_2: s "Blade Dance"
-  P2_S: s "Essence Break"
+  P2_S: s "Reverse Magic"
 
   R2_1: s "Chaos Strike"
   R2_2: s "Chaos Strike"
 
   # L2_P2_R2: s "Fel Eruption"
   L2_P2_R2: s "Chaos Nova"
-  L1_P2_R2: s "Demon's Bite"
+  L1_P2_R2: s "Essence Break"
 
   # L2_S: s "Chaos Nova"
 
@@ -34,4 +34,3 @@ by_key:
 
   L1_R2_1: m sm
   L1_R2_2: s "Metamorphosis"
-  P2_X: s "Reverse Magic"
