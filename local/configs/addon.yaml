@@ -105,9 +105,9 @@ bindings:
   # FLIPCAMERAYAW - useless with stick camera imo
   # TOGGLEBATTLEFIELDMINIMAP - no need to control manually
   # TOGGLEFPS, SCREENSHOT
-  - command: CENTERCAMERA
-    key: PADLSTICK
-    modifiers: [CTRL, SHIFT]
+  # - command: CENTERCAMERA
+  #   key: PADLSTICK
+  #   modifiers: [CTRL, SHIFT]
   - command: MACRO gc
     key: PADRSTICK
     modifiers: [CTRL, SHIFT]
