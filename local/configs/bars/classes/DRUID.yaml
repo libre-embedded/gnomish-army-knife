@@ -51,7 +51,7 @@ by_key:
 
   # cancel macro override (has dedicated bind)
   # L2_L: ""
-  L2_U: s "Symbiotic Relationship"
+  L2_R: s "Symbiotic Relationship"
 
   # mount button overrides
   L2_P2_C: s "Hibernate"
