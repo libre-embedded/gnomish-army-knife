@@ -156,8 +156,11 @@ nameplateShowOffscreen: 1
 
 synchronizeConfig: 0
 
+RAIDsettingsEnabled: 1
+# need to list out all settings
+# RAIDgraphicsQuality: 5
+
 # graphics
-RAIDsettingsEnabled: 0
 # graphicsViewDistance: 0
 graphicsSpellDensity: 2
 graphicsProjectedTextures: 1

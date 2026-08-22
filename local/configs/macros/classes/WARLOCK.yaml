@@ -79,3 +79,8 @@ by_name:
       #showtooltip Summon Demonic Tyrant
       /cast Blood Fury
       /cast Summon Demonic Tyrant
+
+  sboh:
+    body: |-
+      #showtooltip
+      /cast [noknown:Bane of Havoc] Havoc; [@player] Havoc

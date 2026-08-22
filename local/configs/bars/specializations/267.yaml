@@ -13,12 +13,13 @@ by_key:
   L1_R2_1: m srof
   L1_R2_2: s "Rain of Fire"
 
+  L2_L1_R2: s 80240  # Havoc, for Bane of Havoc
   R2_1: s "Chaos Bolt"
   R2_2: s "Chaos Bolt"
 
   L2_S: s "Shadowburn"
 
-  P2_S: s "Havoc"
+  P2_S: m sboh
 
   L2_L1_X: s "Channel Demonfire"
   L2_X: s "Soul Fire"
