@@ -13,11 +13,10 @@ by_name:
   gc:
     icon: creatureportrait_creature_iceblock
     body: |-
+      /cqs
       /stopcasting
       /cancelaura Slow Fall
       /cancelaura Levitate
-      /cancelaura Enchanted Candle
-      /cancelaura Alter Time
 
   dis:
     icon: ability_marksmanship

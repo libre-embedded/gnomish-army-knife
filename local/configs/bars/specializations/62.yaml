@@ -14,7 +14,7 @@ by_key:
   R2_1: s "Arcane Barrage"
   R2_2: s "Arcane Barrage"
   P2_R2: s "Prismatic Barrier"
-  L1_P2_R2: s "Presence of Mind"
+  L1_P2_R2: m gc
 
   S_1: s "Arcane Surge"
   S_2: s "Arcane Surge"
@@ -24,4 +24,4 @@ by_key:
 
   # L2_P2_X: s "Fire Blast"
 
-  # L2_T: s "Frostbolt"
+  L2_T: s "Presence of Mind"

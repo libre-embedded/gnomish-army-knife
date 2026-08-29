@@ -8,11 +8,11 @@ by_key:
   P2_R1: s "Thunderstorm"
   L1_P2_R1: s "Stormkeeper"
 
-  L2_R2: s "Earthquake"
+  L2_R2: m eseb
   R2_1: s "Lava Burst"
   R2_2: s "Lava Burst"
-  L1_R2_1: m eseb
-  L1_R2_2: m eseb
+  L1_R2_1: m seq
+  L1_R2_2: s "Earthquake"
 
   L2_S: s "Ascendance"
   S_1: m scs

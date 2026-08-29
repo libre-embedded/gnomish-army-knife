@@ -91,6 +91,11 @@ by_name:
       #showtooltip
       /cast [@player] Earth Shield
 
+  seq:
+    body: |-
+      #showtooltip
+      /cast [@player] Earthquake
+
   sst:
     body: |-
       #showtooltip

@@ -6,6 +6,11 @@ by_name:
       #showtooltip
       /cast [@player] Death and Decay
 
+  sds:
+    body: |-
+      #showtooltip
+      /cast [@player] Dark Simulacrum
+
   sams:
     body: |-
       #showtooltip

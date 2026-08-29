@@ -9,7 +9,7 @@ by_name:
   prow:
     body: |-
       #showtooltip Prowl
-      /cast [nocombat] !Prowl
+      /cast !Prowl
       /changeactionbar 1
 
   cat:

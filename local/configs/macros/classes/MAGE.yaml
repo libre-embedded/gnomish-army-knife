@@ -6,6 +6,11 @@ by_name:
       #showtooltip
       /cast [@player] Arcane Intellect
 
+  siw:
+    body: |-
+      #showtooltip
+      /cast [@player] Ice Wall
+
   rfmp:
     body: |-
       #showtooltip

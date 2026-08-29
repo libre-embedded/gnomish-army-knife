@@ -40,7 +40,7 @@ by_key:
   L1_P3: s "Arcane Explosion"
 
   # L2_L1_P1: s 389713  # "Displacement"
-  # L2_P1: s "Ice Floes"
+  L2_P1: m siw
   L1_P1: s "Blink"
 
   P2_U: s "Conjure Refreshment"
