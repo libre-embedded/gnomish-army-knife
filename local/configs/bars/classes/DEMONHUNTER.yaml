@@ -1,8 +1,8 @@
 ---
 by_key:
   L2_L1_R1: s "Disrupt"
+  L2_R1: s "Consume Magic"
   L2_P2_R1: s 217832  # Imprison
-  P2_R1: s "Consume Magic"
   L1_P2_R1: s "The Hunt"
 
   L2_L1_R2: m rac1

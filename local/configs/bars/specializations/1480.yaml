@@ -2,9 +2,9 @@
 by_key:
   L1_R1_1: s "Soul Immolation"
   L1_R1_2: s "Soul Immolation"
-  L2_R1: s "Void Ray"
   R1_1: s "Reap"
   R1_2: s "Reap"
+  P2_R1: s "Void Ray"
 
   L2_R2: s "Shift"
   L1_R2_1: s "Voidblade"

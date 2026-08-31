@@ -1,13 +1,11 @@
 ---
 # Havoc Demon Hunter
 by_key:
-  L2_R1: m eb14  # eye beam macro
-
   L1_R1_1: s "Immolation Aura"
   L1_R1_2: s "Immolation Aura"
-
   R1_1: s "Felblade"
   R1_2: s "Felblade"
+  P2_R1: m eb14  # eye beam macro
 
   L2_R2: s "Illidan's Grasp"
 
