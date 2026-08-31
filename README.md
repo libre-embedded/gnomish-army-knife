@@ -2,7 +2,7 @@
     =====================================
     generator=datazen
     version=3.2.4
-    hash=fa15963e1e689ae8324b83902da8e35a
+    hash=d1c9cc2d12d000bb5390f98b923a292e
     =====================================
 -->
 
@@ -102,7 +102,7 @@ options:
   -c, --config CONFIG  path to an optional configuration file (default:
                        'gak.yaml')
   -s, --state STATE    path to the program's state directory (default:
-                       '/home/mmbrea/.local/state/gak')
+                       '/home/vkottler/.local/state/gak')
   -e, --ephemeral      set to use new, temporary directories when applicable
 
 ```
